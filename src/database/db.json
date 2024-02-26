@@ -1,0 +1,40 @@
+{
+  "HotelReviews": [
+    {
+      "id": 1,
+      "name": "Blaise Hotel",
+      "price": "$100 per day",
+      "about": "Friendly, accommodating staff, willing to help with a smile. Facilities, swimming pool were renovated and good looking rooms. There was a manager that helped to serve us during the set dinners, he was very helpful and polite."
+    },
+    {
+      "id": 2,
+      "name": "Suprema Lodge",
+      "price": "$150 per day",
+      "about": "The impeccable service and hospitality of your staff made our retreat most enjoyable. We were very impressed by the responsiveness of you and your staff from the planing stage till the end of our retreat. What is most commendable is that numerous request were all but acceded."
+    },
+    {
+      "id": 3,
+      "name": "Downtowner Hotel",
+      "price": "$180 per day",
+      "about": "On behalf of the Chapel of Christ The Redeemer Chinese Congregation, we would like to express our sincere appreciation for wonderful experience we had at the hotel. We are truly grateful for your cooperation and all the service that you had rendered. We look forward to seeing you again in future. An enjoyable and comfortable stay."
+    },
+    {
+      "id": 4,
+      "name": "Apricot Inn",
+      "price": "$200 per day",
+      "about": "Good location, responsive room service, clean and comfortable room, fast check out. It was an excellent stay. Located slightly further away from city centre and therefore offers quiet surroundings for good rest. Room design is contemporary and I like it a lot. If hotel could provide covered car park, that will be great"
+    },
+    {
+      "id": 5,
+      "name": "Giggle Resort",
+      "price": "$250 per day",
+      "about": "Generally, the hotel was above expectation. Congrats! Food was good fresh and on time. The new rooms were tastefully done and renovated. The hotel will be returned to its former glory. God bless The Katerina Hotel..."
+    },
+    {
+      "id": 6,
+      "name": "A Grand Hotel",
+      "price": "$300 per day",
+      "about": "The Hotel was conveniently located and is easily found. 2. The Large Room makes movement within the room very comfortable. 3. The room was well equip with water boiler and safe deposit box. My stay was very enjoyable. My room was large and it made movement within the room very convenient. The bed was large and very comfortable and I like the colour and the decor in the room. It was very tastefully done and to me, many will like it. I found the Reception Staff very friendly, fast and obliging. I was very happy to be given a late check-out after my small request. My girl friend and I was very happy and pleased with one day stay. Our only regret was that we could not stay longer. Had to return for work!"
+    }
+  ]
+}
